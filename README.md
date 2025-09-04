@@ -1,3 +1,4 @@
 # anjali---github-
-This is my first git Repository
-author: anjali kumari
+This is my first git Repository,
+<br>
+Author: Anjali Kumari
